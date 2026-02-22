@@ -1,6 +1,6 @@
 # Hi, I’m Leo 👋  
 
-A Robotics & AI research engineer focused on safe humanoid systems. I’m completing my master’s at the Technical University of Munich and writing my thesis with a Silicon Valley–based humanoid robotics company, where I develop language-guided dexterous manipulation using foundation models.
+A Robotics & AI research engineer focused on safe humanoid systems. I’m completing my master’s at the Technical University of Munich and writing my thesis with a Silicon Valley-based humanoid robotics company, where I develop language-guided dexterous manipulation using foundation models.
 
 My mission is to make humanoid autonomy deployable at scale in human environments through formal safety guarantees — from semantic intent to torque-level execution. Long-term, I’m building toward a European physical AI safety company developing certifiable safety infrastructure.
 
