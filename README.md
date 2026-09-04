@@ -1,12 +1,8 @@
 # Hi, I’m Leo 👋  
 
-A Robotics & AI research engineer focused on foundation models for physical AI. I’m completing my master’s at the Technical University of Munich and writing my thesis with Foundation, a Silicon Valley-based humanoid startup, where I'm developing language-guided dexterous manipulation using foundation models.
+A robot learning and applied AI engineer with an M.Sc. in Robotics, Cognition, and Intelligence from TUM. I’ve worked across the robotics and AI stack, with projects spanning language-guided dexterous manipulation for my master’s thesis at a robotics startup, neuromorphic computing at BMW Research, and safe human-robot collaboration research at TUM published in IEEE T-RO.
 
-My mission is to make physical AI systems deployable at scale in human environments with safety guarantees — from semantic intent to torque-level execution. My long-term vision is to build toward certifiable safety standards for physical AI in Europe and translate them into deployable infrastructure for real-world systems.
-
-Previously, I worked as an AI/ML research intern at BMW and completed the Siemens mentoring programme. My research experience includes safe human-robot collaboration (IEEE T-RO), neuromorphic computing for tactile sensing, and spatial perception (SLAM) for autonomous drone navigation.
-
-I build physical AI systems using Python, PyTorch, and C++.
+Today, I’m focused on foundation models for physical AI and exploring agentic AI through hackathons.
 
 ---
 
@@ -14,5 +10,5 @@ I build physical AI systems using Python, PyTorch, and C++.
 
 - Website: https://leonardo-maglanoc.com/
 - LinkedIn: https://www.linkedin.com/in/leonardo-maglanoc
-- Paper: https://arxiv.org/abs/2412.10180  
+- Paper: https://ieeexplore.ieee.org/document/11575118
 - Demo: https://youtu.be/IUAeZGau28E
